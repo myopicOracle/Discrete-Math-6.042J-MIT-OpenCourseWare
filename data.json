@@ -1,0 +1,28 @@
+{
+  "course_title":"Mathematics for Computer Science",
+  "course_description":"This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering. The subject coverage divides roughly into thirds:\n\n1. Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.\n2. Discrete structures: graphs, state machines, modular arithmetic, counting.\n3. Discrete probability theory.\n\nOn completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
+  "course_description_html":"<p>This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering. The subject coverage divides roughly into thirds:</p>\n<ol>\n<li>Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.</li>\n<li>Discrete structures: graphs, state machines, modular arithmetic, counting.</li>\n<li>Discrete probability theory.</li>\n</ol>\n<p>On completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.</p>\n<p>This course is part of the <a href=\"https://openlearning.mit.edu/courses-programs/open-learning-library\" target=\"_blank\" rel=\"noopener\">Open Learning Library</a>, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.</p>\n",
+  "site_uid":"f1644e3d-e113-4bcb-85ad-53b17be68e6c",
+  "legacy_uid":"","instructors": [{
+    "first_name":"Albert",
+    "last_name":"Meyer",
+    "middle_initial":"R.",
+    "salutation":"Prof.",
+    "title":"Prof. Albert R. Meyer"},{
+    "first_name":"Adam",
+    "last_name":"Chlipala",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Adam Chlipala"}],"department_numbers":["6","18"],
+  "learning_resource_types":["Online Textbook","Lecture Videos","Lecture Notes","Problem Sets","Exams"],
+  "topics":[["Engineering","Computer Science"],["Mathematics","Applied Mathematics"],["Mathematics","Probability and Statistics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.042J",
+  "extra_course_numbers":"18.062J",
+  "term":"Spring",
+  "year":"2015",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/6-042js15.jpeg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/6-042j-mathematics-for-computer-science-spring-2015/6-042js15.jpeg","file_size":13550,"file_type":"image/jpeg","image_metadata":{"caption":"6.042 serves as an introduction to discrete mathematics, probability, and mathematical thinking for computer scientists. (Image by OpenCourseWare, based on an image by Nick Matsakis.)","credit":"","image-alt":"6.042 course logo: 4 by 4 square with numbers in each square."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","resourcetype":"Image","title":"6-042js15.jpeg","uid":"ea9f7e23-2ef1-4276-b6fd-7c3a17ba57af","video_files":{"video_captions_file":"","video_thumbnail_file":"","video_transcript_file":""},"video_metadata":{"video_speakers":"","video_tags":"","youtube_id":""}}}
+
